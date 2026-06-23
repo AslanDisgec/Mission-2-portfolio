@@ -44,7 +44,7 @@ l'application.
 
 Cette intervention a permis de rétablir le fonctionnement normal de
 Copilot.
-
+![Interface GLPI](assets/image-2.png)
 ------------------------------------------------------------------------
 
 # Autres interventions
@@ -69,7 +69,6 @@ Actions réalisées : - importation de matériel depuis un fichier Excel
 ; - centralisation des actifs informatiques ; - mise à jour des
 informations équipements.
 
-![Interface GLPI](assets/image-2.png)
 ------------------------------------------------------------------------
 
 # Ajout des bornes Wi-Fi dans GLPI
@@ -90,8 +89,8 @@ Les informations renseignées comprenaient notamment :
 -   adresse MAC ;
 -   adresse IP ;
 -   informations fournisseur et garantie.
-
-![Import GLPI](assets/image-3.png)
+ ![Capture supplémentaire](assets/image-4.png)
+ ![Import GLPI](assets/image-3.png)
 ------------------------------------------------------------------------
 
 # Compétences développées
