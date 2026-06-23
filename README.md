@@ -27,8 +27,7 @@ du poste concerné afin d'identifier le format d'écran nécessaire.
 Après recherche auprès du fournisseur LDLC Pro, un filtre adapté a été
 commandé puis installé directement sur le poste utilisateur.
 
-![Filtre de confidentialité](assets/filtre-confidentialite.png)
-
+![Filtre de confidentialité](assets/image-1.png)
 ------------------------------------------------------------------------
 
 ## Résolution d'un problème Copilot dans Microsoft Teams
@@ -70,8 +69,7 @@ Actions réalisées : - importation de matériel depuis un fichier Excel
 ; - centralisation des actifs informatiques ; - mise à jour des
 informations équipements.
 
-![Interface GLPI](assets/glpi-interface.png)
-
+![Interface GLPI](assets/image-2.png)
 ------------------------------------------------------------------------
 
 # Ajout des bornes Wi-Fi dans GLPI
@@ -93,8 +91,7 @@ Les informations renseignées comprenaient notamment :
 -   adresse IP ;
 -   informations fournisseur et garantie.
 
-![Import GLPI](assets/import-glpi.png)
-
+![Import GLPI](assets/image-3.png)
 ------------------------------------------------------------------------
 
 # Compétences développées
@@ -107,3 +104,5 @@ Cette semaine m'a permis de développer mes compétences dans :
 -   le diagnostic logiciel ;
 -   la gestion d'équipements réseau ;
 -   la documentation technique.
+
+![Capture supplémentaire](assets/image-4.png)
