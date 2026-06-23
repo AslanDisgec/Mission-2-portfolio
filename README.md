@@ -103,5 +103,4 @@ Cette semaine m'a permis de développer mes compétences dans :
 -   le diagnostic logiciel ;
 -   la gestion d'équipements réseau ;
 -   la documentation technique.
-
-![Capture supplémentaire](assets/image-4.png)
+  
