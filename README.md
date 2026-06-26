@@ -2,8 +2,7 @@
 
 ## Présentation
 
-Durant cette semaine à l'ENS, les étudiants étant en stage, l'activité
-était légèrement ralentie. Ma mission principale a consisté à gérer les
+Ma mission principale a consisté à gérer les
 tickets utilisateurs ainsi que l'administration du parc informatique via
 GLPI.
 
